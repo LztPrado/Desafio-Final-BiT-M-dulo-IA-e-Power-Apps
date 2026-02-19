@@ -96,7 +96,7 @@ Vendedores e gerencia da loja.
 ## 2.3 Fluxo do Processo  
 CLIQUE NA IMAGEM PARA VER O FLUXOGRAMA COMPLETO!!
 
-[![Visualizar Fluxograma](img/fluxograma.png)](https://miro.com/app/board/uXjVG-XmB3c=/?focusWidget=3458764660336470174)
+[![Visualizar Fluxograma](img/fluxograma.png)](https://miro.com/app/board/uXjVG-XmB3c=/?share_link_id=802272748053)
 
 
 
